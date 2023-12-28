@@ -4,4 +4,3 @@ faiss-cpu
 streamlit
 streamlit-chat
 tiktoken
-pickle
